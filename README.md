@@ -5,11 +5,6 @@ Código da aplicação desenvolvida durante a Semana OmniStack 11.0 🚀
 
 Be The Hero is a project that aims to connect people who are willing to help ONGs.
 
-<h1 align="center">
-    <img alt="Login-Page" title="Login-Page" src=".github/preview.jpg" width="500px" />
-</h1>
-
-
 ## :rocket: Technologies
 
 This project was developed with the following technologies:
@@ -30,7 +25,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 From your command line:
 
 ### Install API
-
+```bash
 # Go into the repository
 $ cd SemanaOmnistack11/backend
 
